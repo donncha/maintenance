@@ -1,0 +1,21 @@
+* {
+  font-family: 'News Gothic MT', helvetica, verdana, sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+body {
+  background-color: orange;
+  margin: 200 200 0 200;
+}
+
+#notice {
+  margin: auto;
+  width: 50%;
+  background-color: white;
+  border-radius: 20px;
+  border: 2px dotted darkgrey;
+  padding: 50px 40px 30px 40px;
+  text-align: center;
+  box-shadow: 10px 10px 30px grey inset
+}
